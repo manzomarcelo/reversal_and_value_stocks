@@ -3,6 +3,7 @@
  Objective: Check the correlation in returns between value strategies and a long-run reversal strategy.
  
  Data: 1 - Monthly returns for various portfolios based on book-to-market value
+       
        2 - Monthly returns for all the NYSE stocks from 1960 to today
        
 
